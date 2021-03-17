@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="66px" height="64px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -912 -619 )">
-    <path d="M 945 619  C 963.48 619  978 633.08  978 651  C 978 668.92  963.48 683  945 683  C 926.52 683  912 668.92  912 651  C 912 633.08  926.52 619  945 619  Z " fill-rule="nonzero" fill="#ffff00" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1131px" height="624px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip2">
+      <path d="M 0 624  L 0 0  L 23.2105263157896 0  L 1131 0  L 1131 624  L 772.764705882354 624  L 0 624  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1963 -1230 )">
+    <path d="M 0 624  L 0 0  L 23.2105263157896 0  L 1131 0  L 1131 624  L 772.764705882354 624  L 0 624  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" transform="matrix(1 0 0 1 1963 1230 )" />
+    <path d="M 0 624  L 0 0  L 23.2105263157896 0  L 1131 0  L 1131 624  L 772.764705882354 624  L 0 624  Z " stroke-width="2" stroke="#f2f2f2" fill="none" transform="matrix(1 0 0 1 1963 1230 )" mask="url(#clip2)" />
   </g>
 </svg>
