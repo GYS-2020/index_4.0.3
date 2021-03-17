@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u437_img {
+#u438_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,43 +24,13 @@
   width:1756px;
   height:753px;
 }
-#u437 {
+#u438 {
   border-width:0px;
   position:absolute;
   left:146px;
   top:314px;
   width:1756px;
   height:753px;
-  display:flex;
-}
-#u437 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u437_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u438_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1763px;
-  height:1015px;
-}
-#u438 {
-  border-width:0px;
-  position:absolute;
-  left:139px;
-  top:1067px;
-  width:1763px;
-  height:1015px;
   display:flex;
 }
 #u438 .text {
@@ -82,15 +52,15 @@
   left:0px;
   top:0px;
   width:1763px;
-  height:927px;
+  height:1015px;
 }
 #u439 {
   border-width:0px;
   position:absolute;
   left:139px;
-  top:2120px;
+  top:1067px;
   width:1763px;
-  height:927px;
+  height:1015px;
   display:flex;
 }
 #u439 .text {
@@ -111,10 +81,40 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:1763px;
+  height:927px;
+}
+#u440 {
+  border-width:0px;
+  position:absolute;
+  left:139px;
+  top:2120px;
+  width:1763px;
+  height:927px;
+  display:flex;
+}
+#u440 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u440_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u441_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:1314px;
   height:141px;
 }
-#u440 {
+#u441 {
   border-width:0px;
   position:absolute;
   left:147px;
@@ -125,14 +125,14 @@
   font-size:16px;
   text-align:left;
 }
-#u440 .text {
+#u441 .text {
   position:absolute;
   align-self:flex-start;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u440_text {
+#u441_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
